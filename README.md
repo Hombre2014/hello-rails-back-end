@@ -24,7 +24,9 @@ The project requirements can be viewed [here](https://github.com/microverseinc/c
 - Framework: Ruby on Rails
 - Database: PostgreSQL
 
-## Usage
+### To start the back end, do the following:
+
+#### Usage
 
 Run the following commands:</br>
 `git clone https://github.com/Hombre2014/hello-rails-back-end`</br>
@@ -33,12 +35,18 @@ Run the following commands:</br>
 `rails s`</br>
 Open a browser and go to: `https://localhost:3000` to view the app.
 
-## Database setup
-
-To start with the sample database, please use:
+#### Database setup
 
 `cd hello-rails-back-end`</br>
 `rails db:create db:migrate db:seed`
+
+### To start the front end, do the following:
+
+Run the following commands:</br>
+`git clone https://github.com/Hombre2014/hello-react-front-end`</br>
+`npm install`</br>
+`npm start`</br>
+The WebDev server will ask you to change the port 3000, since it is already ocupied by the Rails server. Type "Y" and continue. The WebDev server will run on port 3001 and will open a new browser loading the home page.
 
 ## Author
 

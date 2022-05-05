@@ -15,6 +15,9 @@ gem 'puma', '~> 5.0'
 # Add rubocop gem
 gem 'rubocop', '>= 1.0', '< 2.0'
 
+# Add cors for cross origin requests
+gem 'rack-cors'
+
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
