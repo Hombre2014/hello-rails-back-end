@@ -6,9 +6,9 @@
 
 ## Hello rails back end part of the project
 
-This project will consist of thwo separate apps:
+This project will consist of two separate apps:
 - hello-rails-back-end (this one)
-- hellp-react-front-end. The fron-end repo is [here](https://github.com/Hombre2014/hello-react-front-end)
+- hellp-react-front-end. The front-end repo is [here](https://github.com/Hombre2014/hello-react-front-end)
 
 ## Description
 
