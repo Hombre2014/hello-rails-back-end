@@ -4,7 +4,7 @@
 
 >  Pure Ruby on Rails API back end.
 
-## Hello rails back end part of the project
+## hello-rails-back-end part of the project
 
 This project will consist of two separate apps:
 - hello-rails-back-end (this one)
